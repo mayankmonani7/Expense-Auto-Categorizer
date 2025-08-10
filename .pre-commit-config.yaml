@@ -1,0 +1,21 @@
+repos:
+  # Code formatting: Black
+  - repo: https://github.com/psf/black
+    rev: 24.4.2
+    hooks:
+      - id: black
+
+  # Import sorting: isort
+  - repo: https://github.com/pycqa/isort
+    rev: 5.13.2
+    hooks:
+      - id: isort
+
+  # Local custom hook: validate CSV schema
+  - repo: local
+    hooks:
+      - id: validate-transactions
+        name: Validate transactions dataset with Pandera
+        entry: python -m scripts.validate_data data/transactions.csv
+        language: system
+        pass_filenames: false
