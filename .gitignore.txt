@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.build/
+dist/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+tmp/
+.cache/
+.coverage
+htmlcov/
+
+# Data & artifacts (keep small sample CSVs only)
+artifacts/
+models/
+data/raw/
+data/interim/
+**/secrets.yaml
+**/.env
+.env
+
+# ML tooling
+mlruns/          # MLflow runs (we’ll add later)
+evidently_reports/
