@@ -51,12 +51,3 @@ Turn messy real-world descriptions (e.g., “Uber*TRIP 872”, “Amazon Fresh v
 6. Monitoring (Evidently for drift; Prometheus/Grafana for latency/errors)
 7. Scheduled retraining + canary + rollback
 
-## Repo Structure (to be created)
-
-├─ data/
-├─ notebooks/
-├─ src/
-├─ tests/
-├─ monitoring/
-├─ infra/
-└─ README.md
