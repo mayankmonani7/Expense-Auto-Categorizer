@@ -1,0 +1,151 @@
+id,date,description,merchant,amount,mode,label
+7c890af608,2025-07-25,lombard policy premium,icici lombard,12559.16,Cash,Insurance
+f89e20e3b8,2025-07-02,reliance fresh groceries,reliance fresh,2083.70,NEFT,Groceries
+8337aaf38f,2025-07-08,gpay rent transfer bill,gpay,18323.21,Other,Rent
+810e22997d,2025-07-22,bigbasket veggies txn,bigbasket,919.86,Card,Groceries
+338104bd54,2025-07-08,indigo web check-in txn,indigo,8396.62,Card,Travel
+db9a7e6811,2025-08-06,healthkart vitamins,healthkart,2977.69,NetBanking,Health
+1c0f7bb1d9,2025-07-29,oyo hotel stay,oyo,2967.86,NetBanking,Travel
+bb339876c8,2025-08-05,swiggy dinner ka,swiggy,365.62,Other,Food
+bb7b393345,2025-07-23,reliance fresh milk & eggs,reliance fresh,452.73,NetBanking,Groceries
+064b584d49,2025-08-08,lombard policy premium,icici lombard,19543.84,Cash,Insurance
+aa76d853df,2025-07-31,hdfc ergo health,hdfc ergo,19327.20,NetBanking,Insurance
+389ee49476,2025-07-20,bsnl fiber bill,bsnl,653.37,Other,Bills
+f2db16b4fc,2025-08-10,zomato order,zomato,366.09,NEFT,Food
+d9ab6489e1,2025-07-15,sonyliv annual txn,sonyliv,983.26,NetBanking,Entertainment
+0a2454f43d,2025-07-21,sonyliv annual,sonyliv,1302.94,NEFT,Entertainment
+55ce575041,2025-07-11,myntra jeans,myntra,1653.17,NEFT,Shopping
+79ad793164,2025-08-02,iocl fuel refill,iocl,1197.19,Card,Transport
+acdb8d8df5,2025-08-02,tneb online payment,tneb,435.38,NEFT,Bills
+9babb7c408,2025-07-01,metro pass renewal bill,metro,606.50,NEFT,Transport
+c8b6d3a76e,2025-07-29,water board bill order,twad,1549.10,UPI,Bills
+60eadc0abe,2025-07-16,oyo hotel stay,oyo,19473.68,Cash,Travel
+754e3db3d5,2025-07-28,dominos combo,dominos,104.55,Card,Food
+e7e5503290,2025-07-10,swiggy dinner,swiggy,740.18,NEFT,Food
+411ed842ce,2025-07-14,diagnostics blood test,dr lal pathlabs,3512.79,Card,Health
+3a505f354d,2025-07-12,jiomart dal & rice,jiomart,553.75,NetBanking,Groceries
+af9616a9a5,2025-07-22,spotify family plan,spotify,275.87,Cash,Entertainment
+64b9e741f2,2025-07-07,airtel dth recharge,airtel,2268.50,Other,Bills
+224f8a1d31,2025-07-16,metro ticket,metro,693.45,UPI,Transport
+b26e216768,2025-07-05,electricity tneb bill txn,tneb,1016.04,NetBanking,Bills
+72ecaca118,2025-07-22,oyo room booking,oyo,13534.62,Card,Travel
+ca2f6957af,2025-07-25,amazon t-shirt,amazon,4114.56,Other,Shopping
+7eab26ef19,2025-07-21,goibibo bus ticket order,goibibo,1181.27,NEFT,Travel
+5557289b59,2025-07-20,metro pass renewal,metro,261.73,Other,Transport
+02e182fd78,2025-08-08,indigo flight add-on,indigo,3652.09,NetBanking,Travel
+d1c2790823,2025-07-28,water board bill,twad,814.11,UPI,Bills
+c474aa65e4,2025-07-02,jiomart dal & rice,jiomart,2216.91,Card,Groceries
+9bc0e74062,2025-08-10,icici lombard renewal,icici lombard,2435.05,Card,Insurance
+c7096128bb,2025-07-30,rent via gpay ka,gpay,14929.19,Cash,Rent
+80fd349bae,2025-08-01,fortis consultation,fortis,3514.92,Other,Health
+66b6a5a371,2025-07-30,spotify family plan txn,spotify,745.07,NetBanking,Entertainment
+e13dd9d870,2025-07-13,pathlab full checkup,dr lal pathlabs,1406.74,UPI,Health
+aeaadf9aea,2025-08-10,jiomart dal & rice,jiomart,307.80,Card,Groceries
+f05283347a,2025-07-13,amazon shoes,amazon,6593.79,Other,Shopping
+13b60f3e9d,2025-07-19,starbucks cold brew,starbucks,132.08,Card,Food
+f21a623f39,2025-07-19,sonyliv annual,sonyliv,163.43,UPI,Entertainment
+8665051693,2025-07-28,monthly house rent,bank transfer,8460.73,Other,Rent
+bda183ef75,2025-08-04,zomato order bill,zomato,197.68,UPI,Food
+03db77e193,2025-07-23,jiomart monthly groceries,jiomart,978.17,UPI,Groceries
+10a35b6f63,2025-07-27,pathlab full checkup bill,dr lal pathlabs,3308.21,UPI,Health
+84fdcf9963,2025-08-01,ola cab city ride,ola,1144.30,UPI,Transport
+a8ad247a68,2025-07-26,goibibo bus ticket,goibibo,9586.48,NetBanking,Travel
+4c3ee6642d,2025-07-10,bigbasket veggies txn,bigbasket,1112.28,Cash,Groceries
+8d279f93c2,2025-07-03,oyo room booking,oyo,8248.86,Cash,Travel
+905332d470,2025-07-17,gpay rent transfer,gpay,24170.47,NEFT,Rent
+e0af16501b,2025-07-12,bms weekend show order,bookmyshow,843.16,Cash,Entertainment
+35dbad5d0a,2025-08-09,myntra kurti ka,myntra,514.25,NEFT,Shopping
+91a7844e90,2025-07-18,reliance fresh milk & eggs,reliance fresh,2200.94,Card,Groceries
+5c56b01de6,2025-07-08,lic premium,lic,2161.03,Card,Insurance
+17bf14a6ab,2025-07-06,reliance fresh milk & eggs,reliance fresh,2291.74,UPI,Groceries
+975cc60725,2025-07-05,starbucks cappuccino,starbucks,569.12,Other,Food
+6612283765,2025-07-10,hospital opd fees,fortis,3250.81,NEFT,Health
+86b73b8e51,2025-08-06,flipkart headphones,flipkart,6339.08,Cash,Shopping
+b515501b12,2025-08-10,lombard policy premium,icici lombard,13904.01,NetBanking,Insurance
+c63f9bfbe1,2025-08-07,starbucks cappuccino,starbucks,477.28,Other,Food
+ae036f4c1e,2025-08-06,twad water payment,twad,325.15,Cash,Bills
+b6abf77ab9,2025-07-07,netflix subscription,netflix,1164.28,Other,Entertainment
+506e2b0d5a,2025-07-28,croma usb-c charger,croma,1492.54,UPI,Shopping
+1d583deb7a,2025-07-13,oyo room booking order,oyo,11204.80,NEFT,Travel
+677c765b04,2025-07-01,ola cab city ride,ola,716.35,Cash,Transport
+03a835a0e0,2025-07-11,electricity tneb bill,tneb,2916.29,Card,Bills
+922e3f7b21,2025-07-15,sonyliv quarterly,sonyliv,433.57,NEFT,Entertainment
+2d892483f3,2025-07-28,myntra jeans,myntra,2266.35,Card,Shopping
+c2fe1c639b,2025-07-01,netflix subscription,netflix,835.86,NEFT,Entertainment
+738d21a86a,2025-07-16,amazon t-shirt,amazon,4410.97,UPI,Shopping
+97d41c3fa9,2025-07-16,hospital opd fees,fortis,1612.33,NEFT,Health
+d59225b0b3,2025-07-13,metro pass renewal,metro,372.39,Cash,Transport
+b7e62ce67e,2025-07-20,metro ticket,metro,267.46,NetBanking,Transport
+1dd9e6158c,2025-07-27,reliance fresh groceries,reliance fresh,1078.09,Cash,Groceries
+1f37efe25e,2025-07-17,electricity tneb bill,tneb,1826.11,NetBanking,Bills
+dad1c7baa2,2025-08-07,twad water payment ka,twad,887.79,UPI,Bills
+0f0be07f2b,2025-07-03,swiggy dinner,swiggy,643.20,Card,Food
+966929de46,2025-08-10,petrol pump iocl,iocl,1054.16,Card,Transport
+db90940f8f,2025-07-17,bigbasket grocery basket,bigbasket,2365.65,Card,Groceries
+dd19b3779c,2025-08-09,flipkart headphones,flipkart,4249.08,NEFT,Shopping
+2b342e1fc1,2025-07-06,starbucks latte ka,starbucks,634.45,UPI,Food
+40a00ae561,2025-07-13,reliance fresh groceries,reliance fresh,2188.91,Card,Groceries
+3c81b962fe,2025-07-05,bsnl broadband bill txn,bsnl,801.73,Cash,Bills
+421a922a38,2025-07-30,dominos pizza,dominos,522.61,UPI,Food
+7c2e26646c,2025-08-04,gpay rent transfer,gpay,23632.21,Cash,Rent
+3bfa3313c0,2025-08-01,irctc tatkal ticket order,irctc,10561.41,Cash,Travel
+76ccfdb654,2025-07-21,starbucks latte bill,starbucks,739.20,Cash,Food
+a1ab693530,2025-07-25,gpay rent transfer,gpay,24026.61,NetBanking,Rent
+f1923320af,2025-08-03,ola*trip 7916 txn,ola,550.70,NEFT,Transport
+521be357f2,2025-07-19,hdfc ergo health,hdfc ergo,5013.79,Other,Insurance
+3caa43c351,2025-07-18,oyo hotel stay,oyo,14445.43,Cash,Travel
+b292ca26ac,2025-07-03,apollo antibiotic,apollo pharmacy,4021.89,Cash,Health
+64920c6152,2025-07-18,fortis consultation,fortis,4288.22,UPI,Health
+83265c4641,2025-07-23,monthly house rent,bank transfer,20733.41,UPI,Rent
+680d4368f0,2025-07-13,tneb online payment,tneb,595.03,Card,Bills
+3409844417,2025-07-02,rent via gpay,gpay,14621.11,Cash,Rent
+8078d20a8d,2025-07-11,uber airport ride ka,uber,649.05,Cash,Transport
+8d8648eaaf,2025-07-25,rent via gpay order,gpay,15409.21,UPI,Rent
+f48361a76a,2025-07-22,uber ride to office,uber,390.39,UPI,Transport
+2b0e689ca5,2025-07-20,reliance fresh milk & eggs bill,reliance fresh,2134.24,Other,Groceries
+436fe4321d,2025-07-09,icici lombard renewal bill,icici lombard,1563.26,NetBanking,Insurance
+f6b3d882b7,2025-07-22,spotify family plan ka,spotify,1193.92,NetBanking,Entertainment
+269f7c1cc7,2025-07-09,uber airport ride,uber,659.69,Cash,Transport
+fc2c1894fb,2025-08-05,pathlab full checkup,dr lal pathlabs,1850.04,Other,Health
+02d8b988a7,2025-07-25,spotify family plan,spotify,564.75,Cash,Entertainment
+5f6a387867,2025-07-19,water board bill,twad,2416.99,NEFT,Bills
+38d4aef4ed,2025-08-03,irctc tatkal ticket txn,irctc,15222.87,NEFT,Travel
+4e322ea68f,2025-08-09,myntra jeans,myntra,6652.35,NetBanking,Shopping
+61c367de42,2025-08-05,lic quarterly premium,lic,3562.61,Card,Insurance
+19f8d214ba,2025-08-01,movie tickets bookmyshow,bookmyshow,1272.30,Cash,Entertainment
+f1c12b2ace,2025-08-09,zomato delivery,zomato,486.43,Other,Food
+c2adfeef97,2025-07-31,hospital opd fees,fortis,1496.40,Cash,Health
+c1697703b4,2025-07-16,pathlab full checkup txn,dr lal pathlabs,4750.70,UPI,Health
+f901004562,2025-07-13,rent to landlord,bank transfer,20821.96,Card,Rent
+28341ee453,2025-07-04,lic premium,lic,11751.91,Other,Insurance
+0513c08e0d,2025-07-28,croma power bank ka,croma,4875.83,UPI,Shopping
+2d7004c2d2,2025-08-02,zomato pizza deal order,zomato,165.59,Card,Food
+587043c4a8,2025-07-11,twad water payment order,twad,1382.81,UPI,Bills
+ff89be5d13,2025-08-02,spotify subscription,spotify,1296.03,NetBanking,Entertainment
+2c7e1f2b71,2025-07-30,monthly house rent ka,bank transfer,14444.77,Card,Rent
+3a8f316d11,2025-07-01,hdfc ergo motor insurance,hdfc ergo,7537.18,NetBanking,Insurance
+2d3e2b25d4,2025-07-06,oyo room booking,oyo,8943.35,NEFT,Travel
+4ec36e8fb5,2025-08-09,spotify subscription,spotify,952.90,NEFT,Entertainment
+e2f4f09d2e,2025-08-02,oyo hotel stay,oyo,2672.06,NEFT,Travel
+330c2aed40,2025-07-16,gpay rent transfer,gpay,16069.47,NetBanking,Rent
+8b828b4047,2025-07-16,fortis consultation ka,fortis,3514.95,Other,Health
+ab1b492a80,2025-07-02,hospital opd fees,fortis,3407.30,NetBanking,Health
+a2f9a5f2fa,2025-07-21,myntra kurti,myntra,4256.68,NetBanking,Shopping
+6940d39e77,2025-07-15,ola cab city ride bill,ola,731.62,Cash,Transport
+0e765a0554,2025-08-06,goibibo hotel booking,goibibo,4886.92,Other,Travel
+fb9776f076,2025-07-22,fortis consultation,fortis,1903.16,NetBanking,Health
+980d3cc41c,2025-07-08,more supermarket staples,more,1240.91,UPI,Groceries
+f364e433cc,2025-07-15,gpay rent transfer,gpay,9369.82,Card,Rent
+dc338cceb9,2025-08-08,lic premium,lic,8466.09,Other,Insurance
+22be7d5565,2025-08-02,myntra footwear,myntra,5094.33,NetBanking,Shopping
+14660d0130,2025-07-19,lombard policy premium,icici lombard,17518.03,Cash,Insurance
+5f1f904512,2025-07-16,gpay rent transfer,gpay,9317.22,NetBanking,Rent
+3006029840,2025-07-14,rent to landlord ka,bank transfer,19380.80,Cash,Rent
+15f33ea584,2025-08-06,hdfc ergo health,hdfc ergo,19805.61,NetBanking,Insurance
+36b495ee1e,2025-08-04,metro pass renewal,metro,864.30,UPI,Transport
+3fe4a574a4,2025-07-16,bsnl fiber bill,bsnl,2842.31,Cash,Bills
+0c2ea956ca,2025-07-25,sonyliv annual,sonyliv,1087.02,NEFT,Entertainment
+0326a29ac3,2025-07-30,flipkart tshirt,flipkart,3990.36,UPI,Shopping
+da278b29e6,2025-07-18,icici lombard renewal order,icici lombard,4883.78,Card,Insurance
+54f03a00d0,2025-07-15,zomato pizza deal,zomato,590.93,NEFT,Food
+288451f467,2025-07-09,myntra footwear,myntra,4941.02,Cash,Shopping
