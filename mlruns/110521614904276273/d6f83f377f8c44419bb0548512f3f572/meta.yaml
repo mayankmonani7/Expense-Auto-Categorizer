@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/mayan/OneDrive/Desktop/MLOps Projects/Expense-Auto-Categorizer/mlruns/110521614904276273/d6f83f377f8c44419bb0548512f3f572/artifacts
+end_time: 1754849645173
+entry_point_name: ''
+experiment_id: '110521614904276273'
+lifecycle_stage: active
+run_id: d6f83f377f8c44419bb0548512f3f572
+run_name: magnificent-ape-438
+run_uuid: d6f83f377f8c44419bb0548512f3f572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754849644357
+status: 4
+tags: []
+user_id: mayan

@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/mayan/OneDrive/Desktop/MLOps Projects/Expense-Auto-Categorizer/mlruns/110521614904276273/87904e6936bb40c08416c7b06f8600cb/artifacts
+end_time: 1754849815236
+entry_point_name: ''
+experiment_id: '110521614904276273'
+lifecycle_stage: active
+run_id: 87904e6936bb40c08416c7b06f8600cb
+run_name: amusing-chimp-484
+run_uuid: 87904e6936bb40c08416c7b06f8600cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754849808308
+status: 3
+tags: []
+user_id: mayan
