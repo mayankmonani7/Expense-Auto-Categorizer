@@ -1,0 +1,7 @@
+pandas==2.2.2
+python-dateutil==2.9.0.post0
+pandera==0.20.3          # lightweight data contract checks
+pyarrow==16.1.0          # optional: faster IO
+pre-commit==3.7.1        # hygiene
+black==24.4.2
+isort==5.13.2
